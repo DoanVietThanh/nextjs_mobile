@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">senbox</string>
+    <string name="title_activity_main">senbox</string>
+    <string name="package_name">senbox.vercel.app</string>
+    <string name="custom_url_scheme">senbox.vercel.app</string>
+</resources>
